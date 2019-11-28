@@ -1,0 +1,19 @@
+.idea/*
+target/*
+*.iml
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+logs/**/*
+logs/
+*.log
+src/main/webapp/WEB-INF/dream/base/base-dialog.script.vm.bak
+src/main/webapp/WEB-INF/dream/base/base-dialog.vm.bak
+
+web/.idea
